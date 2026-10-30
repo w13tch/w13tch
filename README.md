@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,100,F78CBC,FFFFFF&height=2" width="100%" alt="divider">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F78CBC00,50:F78CBC,100:F78CBC00&height=2" width="100%" alt="divider">
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,100,F78CBC,FFFFFF&height=2" width="100%" alt="divider">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F78CBC00,50:F78CBC,100:F78CBC00&height=2" width="100%" alt="divider">
 </p>
 
 <p align="center">
